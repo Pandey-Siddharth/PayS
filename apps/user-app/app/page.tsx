@@ -15,6 +15,4 @@ export default async function Page() {
 }
 
 
-
-
 //Hello there 
